@@ -88,11 +88,16 @@ text-align:left;
 }
 .sunrise{
   position:relative;
-  left: 650px;
+  left: 720px;
   bottom: 40px;
-
+}
+.another-cloud{
+position:relative;
+left: 300px;
+bottom: 195px;
 
 }
+
 .mountain{
   position: relative;
   right:9%;
